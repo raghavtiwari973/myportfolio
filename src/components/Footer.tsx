@@ -25,7 +25,7 @@ const Footer = () => {
 
           <div className="flex justify-center gap-6 mb-8">
             <a
-              href="https://github.com/raghavtiwari974"
+              href="https://github.com/raghavtiwari973"
               className="group relative p-4 bg-gray-800 rounded-full hover:bg-gray-700 transition-all duration-300 transform hover:scale-110"
             >
               <Github className="w-6 h-6 text-white group-hover:text-cyan-400 transition-colors duration-300" />
