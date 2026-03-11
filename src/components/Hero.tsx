@@ -214,7 +214,7 @@ const Hero = () => {
             <span className="bg-gradient-to-r from-cyan-400 via-purple-500 to-pink-500 bg-clip-text text-transparent font-semibold">Available for Work</span>
           </div>
           <div className="flex md:justify-start justify-center gap-6 mb-12 animate-fade-in-up animation-delay-2000">
-            <a href="https://github.com/raghavtiwari974" className="group relative p-4 bg-gray-800 rounded-full hover:bg-gray-700 transition-all duration-300 transform hover:scale-110">
+            <a href="https://github.com/raghavtiwari973" className="group relative p-4 bg-gray-800 rounded-full hover:bg-gray-700 transition-all duration-300 transform hover:scale-110">
               <Github className="w-6 h-6 text-white group-hover:text-cyan-400 transition-colors duration-300" />
               <div className="absolute inset-0 bg-gradient-to-r from-cyan-400 to-purple-500 rounded-full opacity-0 group-hover:opacity-20 transition-opacity duration-300"></div>
             </a>
