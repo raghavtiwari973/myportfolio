@@ -1,0 +1,23 @@
+@keyframes heroGlowFade {
+  0% { opacity: 0; }
+  10% { opacity: 0.4; }
+  40% { opacity: 0.6; }
+  60% { opacity: 0.4; }
+  100% { opacity: 0; }
+}
+
+.hero-glow {
+  animation: heroGlowFade 2s infinite;
+}
+
+@keyframes heroDustBlink {
+  0% { opacity: 0.1; }
+  20% { opacity: 0.7; }
+  50% { opacity: 1; }
+  80% { opacity: 0.7; }
+  100% { opacity: 0.1; }
+}
+
+.hero-dust {
+  pointer-events: none;
+} 
