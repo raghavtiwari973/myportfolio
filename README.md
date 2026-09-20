@@ -14,7 +14,6 @@ I specialize in developing websites, portfolios, and digital solutions for profe
 
 ## 📬 Contact
 - **Instagram**: [@theraghavtiwari973](https://instagram.com/theraghavtiwari973)
-- *(Add other links here like LinkedIn, GitHub, Email)*
 
 ---
 *© 2026 Raghav Tiwari. All rights reserved.*
