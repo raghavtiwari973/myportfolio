@@ -74,6 +74,16 @@ const Education = () => {
         'Web Development'
       ],
       delay: 600
+    },
+    {
+      id: 4,
+      degree: 'Master of Computer Applications (MCA)',
+      field: 'Computer Applications',
+      institution: 'Indore International College',
+      location: 'Indore, India',
+      duration: '2026 - 2028',
+      achievements: [],
+      delay: 900
     }
   ];
 

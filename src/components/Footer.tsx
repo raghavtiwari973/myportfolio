@@ -52,13 +52,13 @@ const Footer = () => {
 
         <div className="border-t border-gray-800 pt-8 text-center">
           <p className="text-gray-400 mb-4">
-            © 2025 Raghav Tiwari. All rights reserved.
+            © 2026 Raghav Tiwari. All rights reserved.
           </p>
           <p className="text-gray-500 flex items-center justify-center gap-2">
             {/* Made with <Heart className="w-4 h-4 text-red-500 animate-pulse" /> and lots of ☕ */}
           </p>
           <p className="text-gray-500 mt-2 text-sm">
-     
+
           </p>
         </div>
       </div>
